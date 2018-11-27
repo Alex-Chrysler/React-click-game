@@ -1,0 +1,87 @@
+[
+    {
+      "id": 1,
+      "name": "Michael Scott",
+      "image": "https://upload.wikimedia.org/wikipedia/en/d/dc/MichaelScott.png",
+      "occupation": "Regional Manger",
+      "clicked": false
+    },
+    {
+      "id": 2,
+      "name": "Dwight Schrute",
+      "image": "https://theofficeanalytics.files.wordpress.com/2017/11/dwight.jpeg?w=1200",
+      "occupation": "Assisstant to the Regional Manger",
+      "clicked": false
+    },
+    {
+      "id": 3,
+      "name": "Pam Beesly",
+      "image": "https://uproxx.files.wordpress.com/2016/11/pam-the-office1.jpg?quality=95&w=650",
+      "occupation": "Receptionist",
+      "clicked": false
+    },
+    {
+      "id": 4,
+      "name": "Jim Halpert",
+      "image": "https://pbs.twimg.com/profile_images/838818903933386752/rVy94Uu6_400x400.jpg",
+      "occupation": "Salesman",
+      "clicked": false
+    },
+    {
+      "id": 5,
+      "name": "Angela Martin",
+      "image": "https://pbs.twimg.com/profile_images/74258997/angela_400x400.PNG",
+      "occupation": "Head of Accounting",
+      "clicked": false
+    },
+    {
+      "id": 6,
+      "name": "Kelly Kapoor",
+      "image": "https://upload.wikimedia.org/wikipedia/en/thumb/6/69/Kelly_Kapoor.jpg/240px-Kelly_Kapoor.jpg",
+      "occupation": "Customer Service",
+      "location": "Bluffington",
+      "clicked": false
+    },
+    {
+      "id": 7,
+      "name": "Kevin Malone",
+      "image": "https://upload.wikimedia.org/wikipedia/en/thumb/6/60/Office-1200-baumgartner1.jpg/260px-Office-1200-baumgartner1.jpg",
+      "occupation": "Accountant",
+      "clicked": false
+    },
+    {
+      "id": 8,
+      "name": "Oscar Martinez",
+      "image": "https://upload.wikimedia.org/wikipedia/en/thumb/5/54/Oscar_Martinez_of_The_Office.jpg/250px-Oscar_Martinez_of_The_Office.jpg",
+      "occupation": "Accountant",
+      "clicked": false
+    },
+    {
+      "id": 9,
+      "name": "Andy Bernard",
+      "image": "https://i.pinimg.com/236x/b7/f3/89/b7f3890a1fc9bfd012720808603b0d00--andy-bernard-office-birthday.jpg",
+      "occupation": "Salesman",
+      "clicked": false
+    },
+    {
+      "id": 10,
+      "name": "Stanley Hudson",
+      "image": "https://upload.wikimedia.org/wikipedia/en/thumb/2/23/Stanley_Hudson.jpg/245px-Stanley_Hudson.jpg",
+      "occupation": "Salesman",
+      "clicked": false
+    },
+    {
+      "id": 11,
+      "name": "Toby Flenderson",
+      "image": "https://pbs.twimg.com/profile_images/885011848608788483/lwli79kw_400x400.jpg",
+      "occupation": "Human Resources",
+      "clicked": false
+    },
+    {
+      "id": 12,
+      "name": "Meredith Palmer",
+      "image": "https://img.nbc.com/sites/nbcunbc/files/files/images/2013/11/12/meredith-500x500.jpg",
+      "occupation": "Supplier Relations",
+      "clicked": false
+    }
+]
